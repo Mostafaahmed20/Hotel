@@ -255,7 +255,7 @@ body {
   transform: rotate(-90deg);
 }
 
-/* .checkboxx:checked ~ .navgationsign {
+ .checkbox:checked ~ .navgationsign {
   left: 80px;
 } */
 /* COPY RIGHT END  */
